@@ -8,9 +8,9 @@ router.use(bodyParser.json());
 
 // config cloudinary
 cloudinary.config({
-  cloud_name: "dhob4oruk",
-  api_key: "481398383545777",
-  api_secret: "yvbqbmVZahHSuCaFlE0eZ-bLlwc",
+  cloud_name: "dfwfaozfz",
+  api_key: "337319165543856",
+  api_secret: "FjPyM2N-eOl9hvjii_tBZcWg6kA",
   secure: true,
 });
 router.get("/posts", async (req, res) => {
