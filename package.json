@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sumitanwar/Instaclone-Backend-API.git"
+    "url": "git+https://github.com/JITNDER121994/InstaClone_backend.git"
   },
-  "author": "Sumit Tanwar",
+  "author": "jitender kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sumitanwar/Instaclone-Backend-API/issues"
+    "url": "https://github.com/JITNDER121994/InstaClone_backend/issues"
   },
-  "homepage": "https://github.com/sumitanwar/Instaclone-Backend-API#readme",
+  "homepage": "https://github.com/JITNDER121994/InstaClone_backend#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "cloudinary": "^1.33.0",
